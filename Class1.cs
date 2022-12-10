@@ -4,6 +4,7 @@ public class Class1
 {
 	public Class1()
 	{
-		public string a {get; set;}
+		public string a { get; set; }
+		public string b { get; set; }
 	}
 }
